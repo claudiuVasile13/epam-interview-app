@@ -1,0 +1,26 @@
+.Movie-info {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    width: 100%;
+    margin: 5px;
+    padding: 10px;
+    background-color: rgba(249,249,243, 1);
+    box-shadow: 0 4px 6px -6px #777;
+    box-sizing: border-box;
+}
+
+.Icon {
+    width: 40px;
+    margin-right: 10px;
+}
+
+.Text {
+    font-weight: 500;
+    font-family: cursive;
+    text-align: justify;
+}
+
+.Text-small {
+    font-size: 13px;
+}

@@ -1,0 +1,10 @@
+.Input {
+    width: 80%;
+    height: 40px;
+    background-color: white;
+    outline: none;
+    padding: 5px 10px;
+    font-family: cursive;
+    border: none;
+    box-shadow: 0 4px 6px -6px #777;
+}
